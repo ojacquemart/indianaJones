@@ -1,0 +1,5 @@
+06:34;Sofia;Budapest
+3
+06:35;Sofia;Budapest;15:00
+06:50;Sofia;Bucarest;07:45
+14:50;Bucarest;Budapest;06:30

@@ -1,0 +1,6 @@
+13:12;Rome;Prague
+4
+13:20;Rome;Venise;02:50
+16:15;Venise;Munich;04:00
+20:15;Munich;Prague;02:50
+13:20;Rome;Prague;09:40

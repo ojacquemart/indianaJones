@@ -1,0 +1,8 @@
+03:20;Madrid;Milan
+6
+03:30;Madrid;Bordeaux;08:00
+11:25;Bordeaux;Berne;04:25
+15:55;Berne;Milan;03:50
+11:30;Bordeaux;Lyon;03:30
+15:05;Lyon;Berne;02:50
+18:00;Berne;Milan;03:50
